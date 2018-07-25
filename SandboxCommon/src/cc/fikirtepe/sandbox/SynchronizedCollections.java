@@ -9,6 +9,6 @@ public class SynchronizedCollections {
 	public static void main(String[] args) {
 		
 		List<String> list = Collections.synchronizedList(new ArrayList<String>());
-
+		// BURASI GITHUBDA EDITLENDI
 	}	
 }
